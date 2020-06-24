@@ -6,7 +6,7 @@ values of a given string.
 
 
 def removeOdd(str1):
-    return str1[1::2]
+    return str1[::2]
 
 
 str1 = input("Enter the  string:")
